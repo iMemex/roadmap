@@ -1,4 +1,4 @@
-# IPFS Project Roadmap v0.6.0
+# iMemex Roadmap v0.0.1
 
 ## Table of Contents
 
