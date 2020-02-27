@@ -10,7 +10,8 @@
 
 ---
 
-## iMemex Mission Statement `extends` [IPFS Mission Statement](https://github.com/ipfs/roadmap#ipfs-mission-statement)
+## iMemex Mission Statement
+`extends` [IPFS Mission Statement](https://github.com/ipfs/roadmap#ipfs-mission-statement)
 
 :whale:  `making the web more personal`  :shipit:
 
@@ -20,19 +21,22 @@
 
 ---
 
-### HTTP2IPFS `extends` [Self-Archiving Web](https://github.com/ipfs/roadmap#-self-archiving-web-d4-e4-i4)
+### HTTP2IPFS
+`extends` [Self-Archiving Web](https://github.com/ipfs/roadmap#-self-archiving-web-d4-e4-i4)
 
 > #TBD#
 
 #TBD#
 
-### iCompanion `extends` [Personal Web](https://github.com/ipfs/roadmap#-personal-web-d3-e4-i2), [Sneaker Web](https://github.com/ipfs/roadmap#-sneaker-web-d3-e2-i4)
+### iCompanion
+`extends` [Personal Web](https://github.com/ipfs/roadmap#-personal-web-d3-e4-i2), [Sneaker Web](https://github.com/ipfs/roadmap#-sneaker-web-d3-e2-i4)
 
 > #TBD#
 
 #TBD#
 
-### imOS `extends` [WebOS](https://github.com/ipfs/roadmap#-webos-d5-e2-i3)
+### imOS
+`extends` [WebOS](https://github.com/ipfs/roadmap#-webos-d5-e2-i3)
 
 > #TBD#
 
