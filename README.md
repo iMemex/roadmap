@@ -27,13 +27,13 @@
 ### [iCompanion](https://github.com/iMemex/iCompanion)
 `extends` [Personal Web](https://github.com/ipfs/roadmap#-personal-web-d3-e4-i2), [Sneaker Web](https://github.com/ipfs/roadmap#-sneaker-web-d3-e2-i4)
 
-> #TBD#
+> Accompanying one personally and intimately to the web.
 
 #TBD#
 
 ### [imOS](https://github.com/iMemex/imOS)
 `extends` [WebOS](https://github.com/ipfs/roadmap#-webos-d5-e2-i3)
 
-> #TBD#
+> Powering personal devices simply and coolly.
 
 #TBD#
