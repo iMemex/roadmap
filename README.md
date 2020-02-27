@@ -24,9 +24,9 @@
 ### HTTP2IPFS
 `extends` [Self-Archiving Web](https://github.com/ipfs/roadmap#-self-archiving-web-d4-e4-i4)
 
-> #TBD#
+> Facilitating the web to transcend from centralized HTTP to distributed IPFS.
 
-#TBD#
+:eyes:  [Goals](https://github.com/C2D-aka-HTTP2IPFS/c2d-roadmap#goals)
 
 ### iCompanion
 `extends` [Personal Web](https://github.com/ipfs/roadmap#-personal-web-d3-e4-i2), [Sneaker Web](https://github.com/ipfs/roadmap#-sneaker-web-d3-e2-i4)
