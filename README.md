@@ -17,21 +17,21 @@
 
 ## Epics
 
-### HTTP2IPFS
+### [HTTP2IPFS](https://github.com/C2D-aka-HTTP2IPFS)
 `extends` [Self-Archiving Web](https://github.com/ipfs/roadmap#-self-archiving-web-d4-e4-i4)
 
 > Facilitating the web to transcend from centralized HTTP to distributed IPFS.
 
 :eyes:  [Goals](https://github.com/C2D-aka-HTTP2IPFS/c2d-roadmap#goals)
 
-### iCompanion
+### [iCompanion](https://github.com/iMemex/iCompanion)
 `extends` [Personal Web](https://github.com/ipfs/roadmap#-personal-web-d3-e4-i2), [Sneaker Web](https://github.com/ipfs/roadmap#-sneaker-web-d3-e2-i4)
 
 > #TBD#
 
 #TBD#
 
-### imOS
+### [imOS](https://github.com/iMemex/imOS)
 `extends` [WebOS](https://github.com/ipfs/roadmap#-webos-d5-e2-i3)
 
 > #TBD#
