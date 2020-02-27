@@ -15,9 +15,7 @@
 
 ## iMemex Mission Statement
 
-**The mission of iMemex is to ...**
-
-_This looks different! Want to participate in? Add your thoughts [here]()!_
+:whale:  `make the web more personal`  :shipit:
 
 ---
 
