@@ -15,11 +15,7 @@
 
 :whale:  `making the web more personal`  :shipit:
 
----
-
 ## Epics
-
----
 
 ### HTTP2IPFS
 `extends` [Self-Archiving Web](https://github.com/ipfs/roadmap#-self-archiving-web-d4-e4-i4)
