@@ -8,7 +8,6 @@
   - [♻️ Distributed Web](#%EF%B8%8F-distributed-web-d2-e2-i4)
   - [👩🏽‍💻 Personal Web](#-personal-web-d3-e4-i2)
   - [👟 Sneaker Web](#-sneaker-web-d3-e2-i4)
-  - [🚀 Interplanetary Web - Mars 2024](#-interplanetary-web---mars-2024-d3-e3-i4)
   - [🌐 WebOS](#-webos-d5-e2-i3)
 
 ---
@@ -27,6 +26,7 @@
 
 ## Epics
 
+---
 
 ### 👩🏽‍💻 Personal Web (D3 E4 I2)
 
