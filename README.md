@@ -15,7 +15,7 @@
 
 ## iMemex Mission Statement
 
-:whale:  `make the web more personal`  :shipit:
+:whale:  `making the web more personal`  :shipit:
 
 ---
 
