@@ -29,7 +29,7 @@
 
 > Accompanying one personally and intimately to the web.
 
-#TBD#
+:eyes: [Beaker: an experimental peer-to-peer Web browser](https://github.com/beakerbrowser/beaker)
 
 ### [imOS](https://github.com/iMemex/imOS)
 `extends` [WebOS](https://github.com/ipfs/roadmap#-webos-d5-e2-i3)
